@@ -24,6 +24,7 @@ MM의 CSS는 다음과 같은 적용 순서를 가집니다.
 - main.css
 - 각 module의 CSS
 - custom.css
+
 위에서 아래 순서로 로딩되기 때문에 같은 우선순위를 가지는 CSS 셀렉터는 아래쪽걸로 override됩니다.
 
 
